@@ -1,4 +1,5 @@
 ## Hi there 👋
+I'm currently learning HTML and CSS.
 
 <!--
 **shk-Sam/shk-Sam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
